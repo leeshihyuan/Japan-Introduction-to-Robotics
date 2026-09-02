@@ -12,6 +12,8 @@
 - ティーチング・アシスタント：李天宇、李宇晴
 - 2026年7月
 
+![ロボティクス入門](https://github.com/leeshihyuan/Japan-Introduction-to-Robotics/blob/main/Japan-Introduction-to-Robotics_Cover-Red-crowned-Crane.jpg "ロボティクス入門")
+
 ---
 
 # I．本書紹介（最終稿）
