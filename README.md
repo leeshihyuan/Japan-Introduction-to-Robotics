@@ -4,12 +4,11 @@
 
 ### 機構・知覚・制御・身体性AI
 
-**[@prof](https://page.line.me/prof)**
-
 **Introduction to Robotics: Mechanisms, Perception, Control and Embodied AI**
 
 - 目次最終稿（統合版：全36章＋付録12編）
 - 編著：李世淵（機器人叫獸／ロボット教授）
+- **[@prof](https://page.line.me/prof)**
 - ティーチング・アシスタント：李天宇、李宇晴
 - 2026年7月
 
